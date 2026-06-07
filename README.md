@@ -3,6 +3,12 @@
 ## Project Overview
 This project analyzes e-commerce transaction data to understand customer purchasing behavior, sales trends, and product performance. The goal is to derive actionable business insights using data cleaning, exploratory data analysis, and visualization techniques.
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-lightblue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-teal)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 ## Objectives
 - Identify overall sales and revenue trends
